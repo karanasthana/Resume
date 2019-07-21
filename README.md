@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/karanasthana/Resume/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+https://www.figma.com/file/MTFM3XYxezPFyCXW4A7OII/Resume?node-id=0%3A1
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
